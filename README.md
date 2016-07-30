@@ -1,6 +1,4 @@
-## MACHINE-LEARNING
-
-#Файлы с курса "Машинное обучение и анализ данных" от Яндекса и МФТИ
+# MACHINE-LEARNING
 
 /Kaggle -- jupyter notebooks с контестов на сайте kaggle.com
 
