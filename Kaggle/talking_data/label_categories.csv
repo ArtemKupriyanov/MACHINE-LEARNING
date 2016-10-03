@@ -1,0 +1,931 @@
+label_id,category
+1,
+2,game-game type
+3,game-Game themes
+4,game-Art Style
+5,game-Leisure time
+6,game-Cutting things
+7,game-Finding fault
+8,game-stress reliever
+9,game-pet
+10,game-Answer
+11,game-Fishing
+12,game-Music and Dance
+13,game-Puzzle
+14,game-Adventure puzzle
+15,game-Parkour Racing
+16,game-Parkour
+17,game-Racing
+18,game-Motorcycle
+19,game-Rowing
+20,game-aircraft
+21,game-Gem Elimination
+22,game-Box
+23,game-gem
+24,game-Lianliankan
+25,game-Zuma
+26,game-Bobble
+27,game-Cartoon
+28,game-Online game
+29,game-Role -playing games
+30,game-Competitive action
+31,game-Tactics
+32,game-card
+33,game-Business simulation
+34,game-Action Shooting
+35,game-Horizontal version
+36,game-shooting
+37,game-3D
+38,game-flight
+39,game-tank
+40,game-Snipe
+41,poker and chess
+42,poker game_doudizhu
+43,chess
+44,majiang
+45,table game
+46,Texas Poker
+47,poker
+48,Children puzzle game
+49,Puzzle
+50,Literacy Games
+51,Intellectual development game
+52,math
+53,Guard tower defense game
+54,checkpoints game
+55,Beach landing game
+56,fighting game
+57,old style game
+58,basketball
+59,football
+60,tennis
+61,billards
+62,other ball game
+63,RPG game
+64,Turn based RPG game
+65,realtime fighting
+66,ARPG
+67,business strategy game
+68,war chess
+69,business
+70,farm
+71,raising up game
+72,pet raising up
+73,love raising up
+74,unknown
+75,puzzel
+76,gambling
+77,3 kindom game
+78,knight game
+79,Cultivation fantasy game
+80,Journey to the West game
+81,Outlaws of the Marsh game
+82,Chinese Classical Mythology
+83,Western Mythology
+84,80s Japanese comic
+85,90s Japanese comic
+86,movie
+87,shows
+88,millitary and wars
+89,science fiction
+90,zombies game
+91,World of Warcraft
+92,magic
+93,dotal-lol
+94,sailing game
+95,sports
+96,Chinese painting
+97,japanese and korean style
+98,japanese comic and animation
+99,US and Europe animation
+100,Cute style comic
+101,pixel style comic
+102,violence comic
+103,US and Europe magic comic
+104,realistic style comic
+105,chinese comic
+115,unknown
+125,unknown
+126,unknown
+127,online shopping
+128,online malls
+129,"online shopping by group, like groupon"
+130,online shopping navigation
+131,"online shopping, price comparing"
+132,shopping sharing
+133,education
+134,education for babies
+135,education outside class
+136,study abroad
+137,foreign language
+138,professional skills
+139,management
+140,art and culture
+141,library
+142,exams
+143,dialects
+144,class managemetn
+145,reading
+146,reading for fetus
+147,children books
+148,novels
+149,magazine and journal
+150,comics
+151,dictionary
+152,reading platform
+153,poetry
+154,joke
+155,psychology
+156,science
+157,Information
+158,news
+159,Entertainment News
+160,Academic Information
+161,Sports News
+162,Financial Information
+163,Technology Information
+164,gaming strategy
+165,Socially
+166,weibo
+167,love and marriage
+168,community
+169,picture sharing
+170,blogs
+171,communitation
+172,IM
+173,mesasge
+174,email
+175,phone
+176,movie
+177,radio
+178,music
+179,video
+180,show
+181,Audiobooks
+182,Business Travel
+183,map
+184,navigation
+185,Behalf of the drive
+186,Taxi
+187,Car
+188,flight
+189,Bus
+190,train
+191,Hotel application
+192,Travel advisory
+193,tourism product
+194,Share Travels
+195,coach transport
+196,Household
+197,Decoration
+198,Appliances
+199,Furniture
+200,household products
+201,Smart Home
+202,health
+203,lose weight
+204,sports and gym
+205,health
+206,Medical
+207,Health Management
+208,Living
+209,pictures photography
+210,Man playing favorites
+211,takeaway ordering
+212,Astrology Horoscope
+213,coupon
+214,Reviews
+215,Recipes
+216,Business Office
+217,Weather
+218,Clock
+219,Express
+220,Calendar
+221,Accounting
+222,Car Owners
+223,convenience services
+224,fashion outfit
+225,Points Activities
+226,Housekeeping
+227,Integrated Living
+228,work
+229,Jobs
+230,Scheduling
+231,notes
+232,notes
+233,File Editor
+234,business cards
+235,Contacts
+236,network disk
+237,store management
+238,Engineering Drawing
+239,phone tools
+240,System Tools
+241,App Store
+242,search
+243,Input Method
+244,Browser
+245,Desktop Enhancements
+246,readers
+247,Utilities
+248,
+249,Editor
+250,WIFI
+251,Finance
+252,Wealth Management
+253,IMF
+254,Direct Bank
+255,Direct Insurance
+256,Securities
+257,futures
+258,Exchange
+259,Precious Metals
+260,Crowdfunding financing
+261,Lottery ticket
+262,Pay
+263,Debit and credit
+264,
+265,Estate
+266,Housing Advice
+267,Buy
+268,Sellers
+269,Rentals
+270,Mother
+271,Prepare pregnant pregnancy
+272,Parenting
+273,Maternal and child supplies
+274,entertainment
+275,KTV
+276,show
+277,the film
+278,car
+279,Automotive News
+280,Sale of cars
+281,A beauty care
+282,Skin care applications
+283,Beauty Nail
+284,Make-up application
+302,unknown
+303,unknown
+304,unknown
+305,unknown
+306,unknown
+312,Consumer preferences
+313,Consumer Goods
+314,Consumer orientation
+315,Brand Country
+316,Occupational identity
+317,College Students
+318,unknown
+319,unknown
+320,unknown
+326,Condition of the vehicles
+327,Car
+328,No Car
+329,Jewelry Watches
+330,branded watch
+331,fashion brand
+332,Switzerland
+333,Dress shoes
+334,Women
+335,Shoes
+336,Men's
+337,Men's Shoes
+338,France
+339,Hong Kong
+340,Japan
+341,High-end brand
+342,United States
+343,Outdoor sport
+344,Germany
+345,underwear
+346,Home Clothing
+347,Volkswagen brand
+348,Sweden
+349,Accessories
+350,Italy
+351,Household utensils
+352,bed linings
+353,Kids
+354,Sports Health
+355,outdoor equipment
+356,China Mainland
+357,Bags
+358,Lady bags
+359,Taiwan
+360,Baby Products
+361,Baby Clothing
+362,M package
+363,wallet
+364,Digital
+365,camera
+366,Culture and Education
+367,Office Supplies
+368,"Jewelry, jewelry"
+369,Swimming Supplies
+370,Canada
+371,Phone
+372,Digital Accessories
+373,computer
+374,Luxury brand
+375,cosmetic
+376,Fragrance oils
+377,Feature Pack
+378,Suitcase
+379,Makeup
+380,Skin Care
+381,FOOD
+382,Fast food meals
+383,Day feed
+384,Home Decoration
+385,United Kingdom
+386,Collection process
+387,Korea
+388,Austria
+389,Spain
+390,Household appliances
+391,home appliances
+392,Bathroom products
+393,Pregnant mother supplies
+394,Shoes
+395,Norway
+396,Western Dinner
+397,Kitchen Appliances
+398,Australia
+399,Leisure and entertainment
+400,Children's entertainment
+401,SPA
+402,Water Coffee Bar
+403,Domestic services
+404,Nail Tattoos
+405,Custom label
+406,unknown
+407,DS_P2P net loan
+408,Location
+409,Go places
+410,High places
+411,Four five-star hotel
+412,Golf Club
+413,ski facility
+414,transportation hub
+415,AIRPORT
+416,Culture & Education
+417,the University
+418,High school
+419,Tourist attractions
+420,hospital
+421,Portugal
+422,Large household appliances
+423,Baby food
+424,Snacks Snacks
+425,Retail stores
+426,Tobacco row
+427,Decoration materials
+428,Fitness Equipment
+429,Hotels
+430,Singapore
+431,Korean food
+432,Lunch Dinner
+433,Bread dessert
+434,Thailand
+435,Belgium
+436,Shabu hot pot
+437,buffet
+438,groceries
+439,Convenience Store
+440,Pharmacy / medical devices / Health
+441,Denmark
+442,Greece
+443,Furniture
+444,Kitchenware
+445,Collection shop
+446,Baby Care
+447,Netherlands
+448,Stereo headphones
+449,Baby bed
+450,kids toys
+451,Digital stores
+452,Education and Training
+453,Swim
+454,wig
+455,tableware
+456,Latvia
+457,Coffee water bar / teahouse
+458,retail
+459,Brazil
+460,Malaysia
+461,Baby Home Textiles
+462,SPA / Health Center
+463,Finland
+464,Laundry / Leather Care / change clothes
+465,Sports
+466,cinema
+467,Musical Instruments
+468,Beauty salons
+469,Supermarkets
+470,Financial Planning Services
+471,car services
+472,Auto 4S shop
+473,tea shop
+474,Photographic prints
+475,Cycling Sport
+476,Wedding services
+477,KTV service
+478,Appliance stores
+479,Philippines
+480,Tea cups
+481,Board games and entertainment
+482,Games
+483,Gym
+484,Cleaning Products
+485,Experience
+486,Car decoration
+487,Real Estate Property
+488,Housing agency
+489,Florist / Fruit Shop
+490,Fishing Tackle
+491,Electric Car
+492,Personal Care
+493,Swimming pool
+494,Video City
+495,Aftermarket decoration
+496,Billiard room
+497,Foot Bath
+511,Wedding photography
+512,Pet Services
+513,Internet cafes
+514,bank
+515,Parental photography
+516,pharmacy
+517,Supermarket
+518,teahouse
+519,Car Rental
+520,bookstore
+521,Health Products
+522,flower shop
+523,Driving School
+524,Games deep tags
+525,Game willingness to pay
+526,Game amount paid
+527,Game Frequency
+528,Game Installation
+529,Active Games
+530,High (had paid behavior)
+531,Low (not over charge behavior)
+532,payment 1
+533,payment 2
+534,payment 3
+535,payment 4
+536,payment 5
+537,Ultra-high frequency (more than seven consecutive days game behavior)
+538,High Frequency (seven consecutive days there are games behavior)
+539,IF (there are three consecutive days game behavior)
+540,Low Frequency (only recently have the game play a day)
+541,High installation (over 7 games)
+542,The installation (3-7 games)
+543,Low installation (only 1-2 games)
+544,Active high (nearly 30 days played 7 games)
+545,Active in (nearly 30 days played 3-7 games)
+546,Low active (nearly 30 days played 1-2 games)
+547,car brand
+548,Industry tag
+549,Property Industry 1.0
+550,quality
+551,Customization
+552,Trendy / cool
+553,Simple
+554,Reputation
+555,Relatives
+556,Irritation / Fun
+557,natural
+558,service
+559,free
+560,Enthusiasm
+561,noble
+562,Science and Technology
+563,vitality
+564,pursue
+565,Smart Shopping
+566,Personal Effectiveness
+567,classical
+568,comfortable
+569,Total Cost
+570,Teahouse
+571,Toiletries
+572,Leather Care
+573,cinema
+574,Musical instruments
+575,Indian Express
+576,Foot Massage
+577,Experience / DIY
+578,Medical
+579,marry
+580,beauty
+581,Hairdressing
+582,financial
+583,Slim
+584,Paternity
+585,Nail
+586,Beauty SPA
+587,Early Learning
+588,medical instruments
+589,Training institutions
+590,Exam training
+591,Device Properties
+592,Brands
+608,Equipment category
+609,Phone
+610,flat
+611,Smart TV
+612,smart watch
+613,Smart bracelet
+614,Features
+615,Music phone
+616,Beauty phone
+617,Old machine
+618,Photography phone
+619,High-end business phone
+620,Cost-effective mobile
+621,screen size
+622,6.0 inches above
+623,6.0-5.6 inches
+624,5.5-5.1 inches
+625,5.0-4.6 inches
+626,4.5-3.1 inches
+627,3 inches and below
+628,operating system
+629,iOS
+630,WP
+631,Android
+632,Hardware Features
+633,8-core chips
+634,Gyro
+635,NFC chip
+636,Dual SIM
+637,Operators
+638,operatior 1
+639,operator 2
+640,operator 3
+641,The internet
+642,WIFI
+643,4G
+644,3G
+645,2G
+646,unknown
+647,unknown
+648,unknown
+649,unknown
+650,unknown
+651,unknown
+652,shopping center
+653,language training
+654,Car Accessories
+655,pawn shop
+656,Bath
+657,Express Inn
+658,CAR WASH
+659,General merchandise
+660,Real Estate Agents
+661,securities company
+662,post Office
+663,SCHOOL
+664,the University
+665,dance
+666,Parenting
+667,Month Center
+668,Museum of Traditional Chinese Medicine
+669,Corporate
+670,Telecom company
+671,Travel
+672,Parent-child's play
+673,Personalized photo
+674,Optical Shop
+675,Star Hotels
+676,Express
+677,Logistics companies
+678,Skills Training
+679,Concert hall
+680,Food company
+681,Insurance company
+682,car repair
+683,fingerprint
+684,City resident
+685,family
+686,model
+687,Other operators
+688,Ping
+689,safety Insurance
+690,Peace - Search
+691,mobile bank
+692,Insurance
+693,Resolution
+694,Wearable Health
+695,Smart Appliances
+696,Intelligent hardware
+698,unknown
+699,unknown
+700,unknown
+701,unknown
+702,unknown
+703,unknown
+704,Property Industry 2.0
+705,Quality 1
+706,Customized 1
+707,Trendy / cool 1
+708,Simple 1
+709,1 reputation
+710,Relatives 1
+711,Irritation / Fun 1
+712,Nature 1
+713,Services 1
+714,1 free
+715,Passion 1
+716,Noble 1
+717,Science and Technology 1
+718,1 vitality
+719,Pursuit 1
+720,Smart Shopping 1
+721,Personal Effectiveness 1
+722,Classical 1
+723,Cozy 1
+724,Total Cost 1
+730,And the Church
+731,stock
+732,A shares
+733,B Shares
+734,H shares
+735,N shares
+736,Other shares
+737,fund
+738,Monetary Fund
+739,Mixed Fund
+740,Bond Fund
+741,Capital Preservation Fund
+742,QDII fund
+743,Commodity Funds
+744,Equity Fund
+745,Index Fund
+746,Closed-end funds
+747,Insurance
+748,Life Insurance
+749,Insurance
+750,Liability
+751,Bank financing
+752,fixed income
+753,Guaranteed income
+754,Non-guaranteed income
+755,Consumer loans
+756,Internet banking
+757,P2P
+758,Direct Banking
+759,Third party payment
+760,Crowdfunding
+761,Financial Services
+762,Trust
+763,Trust funds
+764,Chattel trust
+765,Real Estate Trust
+766,Property Trust
+767,Intellectual Property Trust
+770,Stock Futures
+771,Commodity Futures
+772,Financial Futures
+773,High Flow
+774,High mobility
+775,Liquid medium
+776,Lower liquidity
+777,Low liquidity
+778,High profitability
+779,Higher income
+780,Moderate profitability
+781,Low profitability
+782,Low income
+783,High risk
+784,Higher risk
+785,Medium risk
+786,Low risk
+787,Low Risk
+788,Financial Supermarket
+789,other
+790,Financial Information
+791,Lottery ticket
+792,exchange rate
+793,Antique collection
+794,Tencent
+795,game
+796,Cards RPG
+797,MMO
+798,round
+800,ARPG
+801,MOBA
+802,SLG (strategy)
+803,Racing (RAC)
+804,Flight Shooting
+805,Shootout Shooting (STG)
+806,music
+807,Sports
+808,Tower Defense
+809,Business simulation
+810,Casual puzzle categories
+811,Chess categories
+812,Parkour avoid class
+813,The elimination of class
+814,Animation
+815,Animation aggregate class
+816,Class animation community
+817,Comics Reading Tools
+818,literature
+819,Read the operator's
+820,read
+821,Pirated content
+822,Listening to books category
+823,Other Read
+824,Hardware Related
+825,the film
+826,Online booking class
+827,User Community
+828,Vermicelli
+829,Buy class
+830,Pay
+831,Not paid the fee
+832,paid1
+833,paid2
+834,paid3
+835,paid4
+836,paid5
+837,paid6
+838,paid7
+839,Doctors
+840,Maternal and child population
+841,Prepare baby
+842,Families with babies
+843,Pregnant baby
+844,Parenting stage
+845,Families with big baby
+846,Families with small babies
+847,Sea Amoy
+848,He slightly - Family Life Cycle
+849,Youth House
+850,the little sun
+851,Three Generations of children
+852,Middle-aged home
+853,Empty nesters
+854,Property Industry new
+855,noble
+856,Total Cost
+857,free
+858,natural
+859,pursue
+860,quality
+861,Cool trendy
+862,Relatives
+863,Smart Shopping
+864,Reputation
+865,Science and Technology
+866,Simple
+867,Enthusiasm
+868,vitality
+869,classical
+870,Personal Effectiveness
+871,service
+872,Customization
+873,Stimulate fun
+874,comfortable
+875,Viewing preferences
+876,physical education
+877,health
+878,Public class
+879,military
+880,Animation
+881,Original
+882,Wonderful
+883,Olympic
+884,entertainment
+885,Children
+886,advertising
+887,microfilm
+888,Funny
+889,education
+890,tourism
+891,Fashion Arts
+892,fashion
+893,Mother
+894,car
+895,game
+896,Trailer
+897,life
+898,the film
+899,TV series
+900,Science and Technology
+901,Documentary
+902,Arts
+903,Lenovo Cooperation
+904,Talk show
+905,Finance and economics
+906,Information
+907,music
+908,other
+909,Air Travel
+910,aviation
+916,Airline type
+917,Full Service Airlines
+918,Low Cost Airlines
+919,Regional Aviation
+920,High-end business aviation
+921,General Aviation
+922,Aviation Integrated Services
+923,Aeronautical Information Service
+924,Airline Alliances
+925,airport
+926,Flight area
+927,Chinese mainland (Airlines)
+928,Southeast Asia (aviation)
+929,Japan and South Korea (Air)
+930,"Europe, the United States and Macao (aviation)"
+931,"Hong Kong, Macao and Taiwan (aviation)"
+932,travel
+933,Purpose of travel
+934,Travel Travel
+935,Overseas travel
+936,Domestic travel
+937,Integrated tourism
+938,Tour around
+939,Travel Information
+940,Free exercise
+941,Travel preferences
+942,Share Tour
+943,Destination Region
+944,Southeast Asia (Travel)
+945,Japan and South Korea (Travel)
+946,"Europe, the United States and Macao (Travel)"
+947,"Hong Kong, Macao and Taiwan (Travel)"
+948,Booking channels
+949,Integrated ticket reservation
+950,Book hotel complex
+951,High-speed rail train reservation
+952,Coach reservations
+953,Integrated Air Travel Booking
+954,Hotels
+955,Hotel Type
+956,High-end hotel
+957,Hotel Chain
+958,Non-standard accommodation
+959,financial
+960,P2P
+965,unknown
+966,BM
+967,NS
+968,Card Game
+969,casual games
+970,Puzzles
+971,cosplay
+972,Sports Games
+973,Table Games
+974,action games
+975,strategy game
+976,Simulators
+977,Adventure Game
+978,Chess game
+979,Dice Game
+980,Educational games
+981,Family Games
+982,Music Games
+983,Racing games
+984,Games
+985,Word games
+986,Xian Xia
+987,effort
+988,navigation
+989,Tomb
+990,reality show
+991,Jin Yong
+992,trickery
+993,Senki
+994,Journey
+995,tribe
+996,Ninja
+997,Romance
+998,Shushan
+999,Martial arts
+1000,Domestic animation
+1001,Europe and Fantasy
+1002,Harem
+1003,fashion
+1004,Finance
+1005,Traditional securities brokerage
+1006,Lottery ticket
+1007,P2P net loan
+1008,Pay
+1009,Crowdfunding
+1010,Accounting
+1011,Third-party card management
+1012,Internet Banking
+1013,Financial Information
+1014,Consumer Finance
+1015,mobile bank
+1016,Traditional Insurance
+1017,Heritage Foundation
+1018,Direct Banking
+1019,Internet Securities
+1020,Bank Credit Card
+1021,Internet Insurance
